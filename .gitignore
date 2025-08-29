@@ -14,6 +14,7 @@ Thumbs.db
 # Data folder (don’t version heavy/raw data)
 data/*
 !data/README.md
+!data/global_climate_data.xlsx
 
 # Outputs / exports (imatges, PDFs…)
 outputs/*
