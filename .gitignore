@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / editor
+.vscode/
+.idea/
+
+# Tableau files (opcions)
+# Ignora fitxers temporals de Tableau
+*.twb~
+*.bak
+
+# Data folder (don’t version heavy/raw data)
+data/*
+!data/README.md
+
+# Outputs / exports (imatges, PDFs…)
+outputs/*
