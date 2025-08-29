@@ -20,6 +20,10 @@ The Tableau workbook includes multiple dashboards covering the indicators above.
 
 Open the `.twbx` file in Tableau Desktop (free for students/educators) to explore all dashboards and the story in detail.
 
+## Preview
+![Global Climate Dashboard Preview](docs/figures/DSH4.png)
+
+
 ## How to Use
 1. Use the Tableau Public link for quick, interactive exploration online.  
 2. Download the `.twbx` file for the full workbook, including all dashboards and the story.  
